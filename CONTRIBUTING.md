@@ -17,4 +17,4 @@ There are many ways you can help us make this project better. Every repository i
 - **bug-low-priority**: DESCRIPTION PLACEHOLDER
 - **help-wanted**: DESCRIPTION PLACEHOLDER
 
-You can also help by translating documentation and reviewing open pull requests.
+You can also help by translating documentation and reviewing open pull requests!
